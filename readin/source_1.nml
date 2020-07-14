@@ -1,0 +1,13 @@
+&number_source
+  n_src = 2,
+/
+
+&source_alignment
+  src_align = 'lateral'
+/
+
+&source
+  ix_src = 3, 61,
+  iz_src = 2, 51,
+  rls_src = 1.d0, 1.d0,
+/
